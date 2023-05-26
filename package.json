@@ -16,6 +16,11 @@
   "dependencies": {
     "readline-sync": "*"
   },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
